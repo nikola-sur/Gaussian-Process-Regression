@@ -1,5 +1,5 @@
 # Gaussian-Process-Regression
- An Introduction to Kriging. Includes R code and presentation materials. 
+ An Introduction to Kriging. Includes R code and my presentation materials. 
  
  (Final Report for STAT 850 - Linear Models and Applications).
 
